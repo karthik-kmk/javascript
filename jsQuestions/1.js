@@ -100,6 +100,6 @@
 // console.log(a);
 
 
-const arr = [10,20,30]
-arr = [20]
-console.log(arr);
+// const arr = [10,20,30]
+// arr = [20]
+// console.log(arr);
